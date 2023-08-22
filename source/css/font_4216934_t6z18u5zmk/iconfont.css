@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "doc-hexo-morgan"; /* Project id 4216934 */
+  src: url('iconfont.woff2?t=1692717681995') format('woff2'),
+       url('iconfont.woff?t=1692717681995') format('woff'),
+       url('iconfont.ttf?t=1692717681995') format('truetype');
+}
+
+.doc-hexo-morgan {
+  font-family: "doc-hexo-morgan" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.morgan-iconup:before {
+  content: "\e657";
+}
+
+.morgan-iconmenu:before {
+  content: "\e678";
+}
+
+.morgan-iconarrow-left-bold:before {
+  content: "\e685";
+}
+
+.morgan-iconarrow-right-bold:before {
+  content: "\e687";
+}
+
+.morgan-iconwb_sunny:before {
+  content: "\e682";
+}
+
+.morgan-icondark_mode:before {
+  content: "\e653";
+}
+

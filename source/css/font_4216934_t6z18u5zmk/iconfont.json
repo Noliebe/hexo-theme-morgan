@@ -1,0 +1,51 @@
+{
+  "id": "4216934",
+  "name": "doc-hexo-morgan",
+  "font_family": "doc-hexo-morgan",
+  "css_prefix_text": "morgan-icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1381486",
+      "name": "up",
+      "font_class": "up",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "14401741",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "15838561",
+      "name": "arrow-left-bold",
+      "font_class": "arrow-left-bold",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "15838566",
+      "name": "arrow-right-bold",
+      "font_class": "arrow-right-bold",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "13519584",
+      "name": "sunny",
+      "font_class": "wb_sunny",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "33024233",
+      "name": "ICDarkMode",
+      "font_class": "dark_mode",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 @font-face {
   font-family: "doc-hexo-morgan"; /* Project id 4216934 */
-  src: url(iconfont.woff2) format('woff2'),
-       url(iconfont.woff) format('woff'),
-       url(iconfont.ttf) format('truetype');
+  src: url('/css/font_4216934_t6z18u5zmk/iconfont.woff2?t=1692717681995') format('woff2'),
+       url('/css/font_4216934_t6z18u5zmk/iconfont.woff?t=1692717681995') format('woff'),
+       url('/css/font_4216934_t6z18u5zmk/iconfont.ttf?t=1692717681995') format('truetype');
 }
 
 .doc-hexo-morgan {

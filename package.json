@@ -1,15 +1,15 @@
 {
-  "name": "hexo-theme-vivia",
-  "version": "0.3.1",
-  "description": "A theme for Hexo",
+  "name": "hexo-theme-morgan",
+  "version": "0.0.1",
+  "description": "A theme for Hexo, powered by hexo-theme-vivia",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saicaca/hexo-theme-vivia.git"
+    "url": "git+https://github.com/saicaca/hexo-theme-morgan.git"
   },
   "keywords": [
     "hexo",
     "theme",
-    "vivia"
+    "morgan"
   ],
   "author": "saicaca",
   "license": "MIT",
@@ -19,7 +19,7 @@
     "js-yaml": "^4.1.0"
   },
   "bugs": {
-    "url": "https://github.com/saicaca/hexo-theme-vivia/issues"
+    "url": "https://github.com/saicaca/hexo-theme-morgan/issues"
   },
-  "homepage": "https://github.com/saicaca/hexo-theme-vivia#readme"
+  "homepage": "https://github.com/saicaca/hexo-theme-morgan#readme"
 }

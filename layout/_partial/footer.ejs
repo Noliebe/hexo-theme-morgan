@@ -3,10 +3,12 @@
     <%- partial('_partial/sidebar') %>
   <% } %>
   <div id="footer-info" class="inner">
+    <div>&copy; <%= date(new Date(), 'YYYY') %> <%= theme.author || config.author || config.title %></div>
     <% if (theme.copyright){ %>
       <%- render(theme.copyright, 'pug'); %>
     <% } %>
-    &copy; <%= date(new Date(), 'YYYY') %> <%= theme.author || config.author || config.title %><br>
-    <%= __('powered_by') %> <a href="https://hexo.io/" target="_blank">Hexo</a> & Theme <a href="https://github.com/saicaca/hexo-theme-vivia">Vivia</a>
+    <div>
+      Thanks for <a href="https://hexo.io/" target="_blank">Hexo</a> & Theme <a href="https://github.com/saicaca/hexo-theme-vivia">Vivia</a>
+    </div>
   </div>
 </footer>
